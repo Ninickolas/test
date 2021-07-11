@@ -24,6 +24,9 @@ cmake --build .
   
 > For example, if one'd like to play with the bet in the datafile `bet_01.dat`, the command would be `./keno ../../data/bet_01.dat`.
 
+## Autors
+
+<p align="left">This project was implemented by Lucas Vieira Bazante and Nickolas Oliveira</p>
 
 
 
