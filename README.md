@@ -6,11 +6,14 @@
 ## How to play
 <p align="left"> - To run this game, we will be needing a bet file, containing the information of the players initial credits, the number of rounds that he wishes to play, and the numbers he has chosen to bet on, consecutively, all three of them in their separeted lines.</p>
 
-<p align="left"> - Once the bet file is done, we will need to go inside thew source folder of the project and create the build folder, along with the makefile comands.</p>
+<p align="left"> - Once the bet file is done, we will need to go inside thew source folder of the project and create the build folder, along with the makefile comands
+Then, execute `cmake ../`. Then, `cmake --build .` for building everything inside the bin/ directory. An executable named `keno` will be created. Use `./keno path_to_datafile` for playing. For example, if one'd like to play with the bet in the datafile `bet_01.dat`, the command would be `./keno ../../data/bet_01.dat`.</p>
+
 
 ```
-cd source
-mkdir build
-cd build
-
+cd bin/
+cmake ../
+cmake --build .
+./keno path_to_datafile
+./keno ../../data/bet_01.dat
 ```
