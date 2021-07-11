@@ -17,4 +17,4 @@ cmake --build .
 ```
 <p align="left"> - So we can get inside the source directory, build everything inside the bin/ directory, create an executable named 'keno', and use './keno path_to_datafile' for playing. </p>
   
-<p align="left"> - For example, if one'd like to play with the bet in the datafile 'bet_01.dat', the command would be './keno ../../data/bet_01.dat'.</p>
+<p align="left"> - For example, if one'd like to play with the bet in the datafile 'bet_01.dat', the command would be ```./keno ../../data/bet_01.dat```.</p>
