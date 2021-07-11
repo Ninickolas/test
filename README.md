@@ -6,8 +6,6 @@
 ## How to play
 <p align="left"> - To run this game, we will be needing a bet file, containing the information of the players initial credits, the number of rounds that he wishes to play, and the numbers he has chosen to bet on, consecutively, all three of them in their separeted lines.</p>
 
-<p align="left"> - To run this game, we will be needing a bet file, containing the information of the players initial credits, the number of rounds that he wishes to play, and the numbers he has chosen to bet on, consecutively, all three of them in their separeted lines.</p>
-
 <p align="left"> - Once the bet file is done, we will need to go inside thew source folder of the project and create the build folder, along with the makefile comands.</p>
 
 ```
