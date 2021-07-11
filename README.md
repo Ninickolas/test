@@ -6,7 +6,7 @@
 ## How to play
 <p align="left"> - To run this game, we will be needing a bet file, containing the information of the players initial credits, the number of rounds that he wishes to play, and the numbers he has chosen to bet on, consecutively, all three of them in their separeted lines.</p>
 
-<p align="left"> - Once we have our bet file, we will need to go to the terminal and write down the sequence of codes</p>
+<p align="left"> - Once we have our bet file, we will need to go to the terminal and write down:</p>
 
 
 ```
