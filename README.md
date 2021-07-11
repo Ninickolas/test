@@ -16,6 +16,7 @@ cmake --build .
 ./keno ../../data/bet_01.dat
 ```
 <p align="left"> So we can: </p>
+
   -  Get inside the source directory;
   -  Build everything inside the bin/ directory;
   -  Create an executable named 'keno';
