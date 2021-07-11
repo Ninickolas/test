@@ -22,7 +22,7 @@ cmake --build .
   -  Create an executable named 'keno';
   -  And use './keno path_to_datafile' for playing.
   
-For example, if one'd like to play with the bet in the datafile `bet_01.dat`, the command would be `./keno ../../data/bet_01.dat`.
+- For example, if one'd like to play with the bet in the datafile `bet_01.dat`, the command would be `./keno ../../data/bet_01.dat`.
 
 
 
